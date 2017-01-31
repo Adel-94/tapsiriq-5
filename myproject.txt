@@ -1,0 +1,32 @@
+Layihe: LADIES FIRST!(QADINLAR ONDEN)
+Eslinde butun analar ucun ideal bir websayt ola biler.
+1.Bu layihenin esas meqsedi korpelerini ideal duzgun ve herterefli boyutmek isteyen analar ucun  nezerde tutulub.Gunumuzde,qarsilasdigim situasiyalardan bele neticeye geliremki,
+muxtelif sosial sebekelerde muxtelif qruplarda vaxt itirmekdense ,butun suallarin cavabini tez ve optimal sekilde tapmaq olar.
+Burada esas obyekt kimi analar goturulur.Daha umumi desek valideynler.Cunki atalar da isde,komputer qarsisinda oturub rahatca butun faydali meslehetlere yiyelene bilerler.
+Layihenin ugurlu olub olmadigini feedbackler vasitesile ve yaxud saytda bir koshede istifadeciler,ziyaretciler ucun qiymetlendirme cedveli yaradaraq bilmek olar.Bu qiymetlendirmeni 
+gozden kecirerek,her defe yenilikler getirmek,eksiklikleri aradan qaldirmaq  isin esas meqsedidir.
+Burada market dediyimiz valideynler ola biler.Xususile evdar xanimlar ve Analar.
+Dusunuremki   ekseriyyet 20-40 yas arasi analar daha cox, saytdan istifade edecekler.
+Qerar vereni yeqinki ozum olacam.Ilk addimlarda bu bele olsa da , tekmillesdirmeye calisdiqca yeni meslehetlere ve yeni ideyalara ehtiyac duyulacaq.
+Ona gore de gelecekde komanda olaraq davam etdirmek ugurlu olardi.
+Her bir layiheni yaradarken mutleq menbeye ehtiyac vardir.Bu layihede esas olaraq usaq psixologiyasi ve tibb menbe olaraq goturulur.
+Yeni yerlesdireceyimiz melumatlar, meslehetler hamisi bu saheden qaynaqlanir.
+Meselen, yeni dogulan usaqdan baslamis 6 yasina qeder (korpe sayilan) usaqlarin qidalanmasi,xestelikleri ve mualiceleri,temizliyi, geyimleri,qorunulmasi lazim olan her bir sey,
+olar-olmaz dediyimiz, her bir yas araligina uygun eylenceleri,zehinsel inkisaflarina yonelik tedbirler, ve bu kimi faydali meslehetler.
+Tebii ki butun bunlari heyata kecirmek ucun kifayet qeder guclu usaq mutexessisi(pediatr)-a ve usaq psixoloquna ehtiyac var.
+Model olaraq bildiyim qederile html,css,javascript,c# istifade olunacaq.
+Reklam dediyimiz ise cox guclu olmalidir.Oyuncaq ,geyim magazalarinin,psixoloq ve pediatrin reklami ve s.Saytin dizayni fikrimce cox boyuk onem dasiyir.Nezere alsaq ki, giris edenler genc tebeqedir,
+reng qarmoniyasina xusui diqqet etmek lazimdir.
+Daha da onemlisi sayta giris edenler gundelik cox olmalidir ki, reklam ucun qebul olunsun ve reklami guclu olsun.Bu baximdan eslinde ilk baslarda  daha cox sermaye teleb edir,gelir ise cox az.
+Daha once bele bir layihem olmayib.
+Eger bu layiheni heyata kecire bilsem,genislendirmek ucun imkanlar yaratmaq olar. Meselen Yas araligini artirmaq.Bele bir deyim var."usaq boyudukce derdi de artar"
+Bu prinsipden getsek, layiheni boyutmek mumkundur deye dusunurem.
+
+
+
+
+
+
+
+
+
